@@ -1,0 +1,1 @@
+6-pointers_arryas_strings
